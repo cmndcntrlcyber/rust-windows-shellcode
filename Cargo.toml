@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 goblin = "0.3.0"
 anyhow = "1.0.34"
-iced-x86 = "1.10.0"
+iced-x86 = "1.11.0"
